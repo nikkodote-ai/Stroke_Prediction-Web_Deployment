@@ -1,0 +1,11 @@
+.center{
+display : flex;
+justify-content: space-around;
+color: grey}
+
+.color {
+color: black}
+
+.form-text{
+text-align: center;
+}
